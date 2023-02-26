@@ -139,7 +139,7 @@ cd repositório
 </details>
 
 <details>
-<summary><strong>⚠️ 💻 Rodando Localmente</strong></summary>
+<summary><strong>💻 Rodando Localmente</strong></summary>
 
 - Instale as dependências, caso existam, com:
     
@@ -159,7 +159,7 @@ cd repositório
 </details>
 
 <details>
-<summary><strong>⚠️ 🐳 Rodando com Docker</strong></summary>
+<summary><strong>🐳 Rodando com Docker</strong></summary>
 
 - ⚠️ Importante ⚠️
     
