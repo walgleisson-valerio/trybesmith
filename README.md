@@ -23,13 +23,13 @@ Nele foi utilizado a arquitetura MSC (*Models*, *Service* e *Controllers* ) par
 - Para executar esse projeto, você deve clonar esse repositório. Para isso, execute o comando abaixo:
 
 ```bash
-git clone repositório
+git clone git@github.com:walgleisson-valerio/trybesmith.git
 ```
 
 - Entre na pasta criada
 
 ```sh
-cd repositório
+cd trybesmith
 ```
 <details id=bd>
 <summary><strong>⚠️ Banco de Dados MySQL</strong></summary>
